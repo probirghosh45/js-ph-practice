@@ -26,4 +26,4 @@ const bestFriend = (type1,type2)=> {
         return "Pls Input Object Type Data"
     }
 }
-console.log(bestFriend(friendshipOne,friendshipTwo));
+// console.log(bestFriend(friendshipOne,friendshipTwo));

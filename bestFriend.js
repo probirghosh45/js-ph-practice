@@ -10,7 +10,7 @@ const friendshipOne = {
 
 const friendshipTwo = {
     selfName : "Karim" ,
-    friendName : "Rahim"
+    friendName : "Kasem"
 }
 
 
